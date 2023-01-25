@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(80, 129, 110);
+}
+
+#sketch_name
+{
+    color: white;
+}
+
+#show_sketch
+{
+    float: right;
+    color: white;
+}
+
+h1
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#score
+{
+    font-size: 35px;
+    margin-left: 20px;
+    color: rgb(180, 240, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#timer
+{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+    color: rgb(180, 240, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
